@@ -166,7 +166,7 @@ class urlReplacer
         global $REPLACE_TARGET;
 
         $id = $params['id'];
-        $name = $params['name'];
+        //$name = $params['name'];
         $clang = $params['clang'];
         $params = $params['params'];
 
