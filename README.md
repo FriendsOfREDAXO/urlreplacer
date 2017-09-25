@@ -1,6 +1,10 @@
 # urlReplacer
-Die Entwicklung des AddOns wurde eingestellt. 
 
-Für die gleiche Funktionalität bitte ein geeignetes yrewrite scheme verwenden:
+Ersetzt die URLs leerer Elternkategorien mit den URLs der nächsten inhaltversehenen Kindkategorien.
 
-z.B.: https://github.com/FriendsOfREDAXO/tricks/blob/master/addons_yrewrite_url_schemes.md
+* Bassiert auf dem urlreplace addon für REDAXO 4
+
+## TODO
+
+* Custom Weiterleitung für Artikel
+* Code refactoring
