@@ -1,4 +1,8 @@
-package: urlreplacer
-version: '1.0'
-author: Joachim Doerr
-supportpage: www.redaxo.org/de/forum
+package: yrewrite_scheme_urlreplace
+version: '2.0.0'
+author: Friends Of REDAXO
+supportpage: https://github.com/FriendsOfREDAXO/yrewrite_one_level
+
+requires:
+    packages:
+        yrewrite: '>=1.0.0'

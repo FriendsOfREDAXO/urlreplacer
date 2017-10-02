@@ -1,22 +1,23 @@
-# urlReplacer
+# URL-Schema »URL_REPLACER« für YRewrite
 
-> Dieses AddOn ist veraltet und sollte nicht mehr produktiv verwendet werden. Für die gleiche Funktionalität sollte man aktuell besser auf eines der folgenden Schemes zurückgreifen: https://github.com/FriendsOfREDAXO/tricks/blob/master/addons_yrewrite_url_schemes.md
-
-
-Beschreibung: 
 Ersetzt die URLs leerer Elternkategorien mit den URLs der nächsten inhaltversehenen Kindkategorien.
+Ideal für Webpräsenzen, die keine Vorschaltseiten für die jeweilige Kategorie benötigen (z.B. bei einer Dropdown-Navi)
 
-* Bassiert auf dem urlreplace AddOn für REDAXO 4
 
-## TODO
 
-* Umbau zu Scheme
-* Scheme-Customizing: mit oder ohne suffix
+## Eigenes Schema verwenden ohne dieses AddOn?
+
+Anleitung und Beispiele: https://github.com/FriendsOfREDAXO/tricks/blob/master/addons_yrewrite_url_schemes.md
+
+### Lizenz
+
+siehe [LICENCE](https://github.com/FriendsOfREDAXO/urlreplacer/blob/master/LICENCE)
 
 **Projekt-Lead**
 
 [KLXM Crossmedia / Thomas Skerbis](https://klxm.de)
 
 ## Credits
-Danke an: 
-[Joachim Dörr](https://github.com/joachimdoerr)
+
+- [Joachim Dörr](https://github.com/joachimdoerr)
+- [FriendsOfREDAXO](https://github.com/FriendsOfREDAXO)
