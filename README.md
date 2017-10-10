@@ -1,4 +1,4 @@
-⚠️ Entwicklung eingestellt: Das AddOn wurde im Oktober 2017 in das AddOn [YRewrite Scheme](https://github.com/FriendsOfREDAXO/yrewrite_scheme) integriert und wird an dieser Stelle nicht weiter gepflegt. / Deprecated: as of october 2017 the addOn has been merged into the [YRewrite Scheme](https://github.com/FriendsOfREDAXO/yrewrite_scheme) addOn and won’t be maintained any more.
+⚠️ Entwicklung eingestellt: Das AddOn wurde im Oktober 2017 in das AddOn [YRewrite Scheme](https://github.com/FriendsOfREDAXO/yrewrite_scheme) integriert und wird an dieser Stelle nicht länger gepflegt. / Deprecated: as of october 2017 the addOn has been merged into the [YRewrite Scheme](https://github.com/FriendsOfREDAXO/yrewrite_scheme) addOn and won’t be maintained any longer.
 
 ---
 
